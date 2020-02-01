@@ -7,7 +7,6 @@ Has a checking
 
 User:
 Has a name
-
 Can create an account
 Can deposit 
 and withdraw from account
